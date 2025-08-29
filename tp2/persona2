@@ -1,0 +1,5 @@
+public class testPersona ()
+public static void main (string arg {}) {
+int num ; 
+persona1= new persona("franco", "tal", "dnialazar");
+persona2= new persona ("felipe", "aquel", "dni2");
