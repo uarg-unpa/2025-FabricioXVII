@@ -4,7 +4,7 @@ public class EjemploScanner_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("¿Cómo te llamas? ");
+        System.out.print("¿Cómo te  llamas? ");
         String nombre = scanner.nextLine();
 
         System.out.print("¿Cuántos años tenes? ");
