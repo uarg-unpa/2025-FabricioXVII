@@ -14,6 +14,7 @@ public class main {
             System.out.println("Hoy tengo programación");
         } else {
             System.out.println("Hoy no tengo programación");
+            
         }
     }
 }
