@@ -16,5 +16,6 @@ public class main {
             System.out.println("Hoy no tengo programación");
             
         }
+        scanner.close();
     }
 }

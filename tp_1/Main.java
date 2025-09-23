@@ -16,6 +16,7 @@ public class Main {
                 System.out.println("el numero mas grande es el segundo");
             }
             else
-                System.out.println("el numero mas grande es el tercerp");
+                System.out.println("el numero mas grande es el tercero");
+        scanner.close();
     }
 }

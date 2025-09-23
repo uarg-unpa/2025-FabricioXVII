@@ -1,3 +1,5 @@
+package tp2;
+
 public class hora {
     private int hora;
     private int segundos;
