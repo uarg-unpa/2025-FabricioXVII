@@ -19,8 +19,19 @@ public class PilaEnteros {
             return false;
     }
     public void meter(int elem) {
+        while (!esLlena()) {
+            cima++;
+            elementos[cima] = elem;
+            break;
+        }
     }
     public int sacar(){
-        return 0;
+        if (!esVacia()) {
+            int elem = elementos[cima];
+            cima--;
+            return elem;
+        } else {
+            return -1;
+        }
     }
 }

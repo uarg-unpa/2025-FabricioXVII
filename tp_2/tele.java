@@ -1,4 +1,4 @@
-package tp2;
+package tp_2;
 public class tele {
     private String marca;
     private boolean encendido;

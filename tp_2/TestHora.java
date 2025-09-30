@@ -1,4 +1,4 @@
-package tp2;
+package tp_2;
 
 public class TestHora {
       public static void main(String[] args) {
